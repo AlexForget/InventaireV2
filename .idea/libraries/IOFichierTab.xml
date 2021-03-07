@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IOFichierTab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IOFichierTab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
