@@ -1,5 +1,13 @@
 package com.company;
 
+/*
+	Inventaire
+	auteur : Alexandre Forget
+	contact : alexandreqc26@gmail.com
+	07/06/2021
+	Système d'inventaire en ligne de commande. Programmation procédural avec ajout de fonctions. Deuxième travaille d'école.
+ */
+
 import java.text.DecimalFormat;
 import java.util.*;
 import java.io.File;
